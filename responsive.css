@@ -1,0 +1,61 @@
+@media(max-width: 320px){
+    body{
+        width: 100%;
+    }
+
+    .header{
+        height: 800px;
+    }
+
+    .container-header{
+       height: 600px;
+       width: 100%;
+    }
+
+    .compartimento1{
+        margin-left: 5px;
+    }
+
+    .compartimento1 p{
+        width: 290px;
+
+    }
+    .card1, .card2, .card3, .card4, .card5, .card6 {
+        width: 300px;
+        margin-top: 5px;
+        margin-bottom: 15px;
+    }
+    
+    .painel{
+        width: 100%;
+    }
+
+    .cards{
+        margin-top: 10px;
+    }
+
+    h1{
+        margin-top: 20px;
+    }
+
+    .container-header img{
+        width: 70%;
+        margin-left: 30px;
+    }
+
+   .input , .mensagem{
+       width: 280px;
+       margin-left: 10px;
+   }
+
+   .botao-rodape{
+    width: 280px;
+    height: 40px;
+   }
+
+   .formulario{
+       width: 100%;
+       padding: 0px;
+   }
+
+}

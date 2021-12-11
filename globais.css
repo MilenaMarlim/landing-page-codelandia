@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.container-header{
+    background-color: #d7d4ff;
+}
+
+.card1 p{
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+
+.card1 h2{
+    font-size: 24px;
+}
+
+.formulario h2{
+    font-size: 32px;
+    font-family: 'Merriweather', serif;
+}
+
+html {
+    height: 100%;
+}
