@@ -1,0 +1,60 @@
+@media(max-width: 917px) {
+
+    body{
+        width: 100%;
+    }
+
+    .header {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    .imagem-header {
+        padding-top: 30px;
+    }
+
+    .input, .botao-rodape, .mensagem {
+        width: 100%;
+    }
+
+    .formulario {
+        margin: 0 auto;
+    }
+
+
+}
+
+
+@media(max-width: 425px) {
+    body {
+        width: 100%;
+    }
+
+    html {
+        width: 100%;
+    }
+
+    .header {
+        height: 100%;
+        width: 100%;
+        padding-top: 10px;
+    }
+
+    .imagem-header img {
+        width: 90%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .formulario {
+        padding: 0;
+    }
+
+    .texto-header {
+        width: 65%;
+        margin-left: 0;
+    }
+}
