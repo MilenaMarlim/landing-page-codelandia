@@ -14,8 +14,9 @@ https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?nod
 
 💬 Meus maiores aprendizados nesse projeto:
 
-* Flex 
-* Responsividade
+* Flex;
+* Formulário;
+* Responsividade com Media Queries.
 
 ## 🚀 Linguagens utilizadas:
 
